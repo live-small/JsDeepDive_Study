@@ -28,3 +28,5 @@
 *** 
 참고자료 
 - [마크다운 이용법](https://www.markdowntutorial.com/kr/)  
+- [모던 자바스크립트 Deep Dive](https://poiemaweb.com/)
+- [ECMAScript® 2022](https://tc39.es/ecma262/#sec-intro)
