@@ -3,9 +3,6 @@
 ### 1. 스터디 목표  
 [모던 자바스크립트 deep dive](https://wikibook.co.kr/mjs/) 책 완독하기  
 
-
-  
-    
     
 ### 2. 스터디 진행방식  
   * 토의 💬
@@ -21,13 +18,15 @@
 
 
 ### 3. 출석체크 ✅   
-| 날짜   | live_small |   |   |   |   | 정리 |
+| 날짜   | live_small | hanna244  | markers  |   |   | 정리 |
 |--------|------------|---|---|---|---|---|
-| 210807 |  [😊]()          |   |   |   |   |   |
-|  210803      | 출석(jessi68)           |   |   |   |   |   |
+| 21.08.07 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/3)    | [😊](https://github.com/live-small/JsDeepDive_Study/issues/2)   |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/4) |   |   | live-small & jessi68  |
+|        |            |   |   |   |   |   |
 
 
 
 *** 
 참고자료 
 - [마크다운 이용법](https://www.markdowntutorial.com/kr/)  
+- [모던 자바스크립트 Deep Dive](https://poiemaweb.com/)
+- [ECMAScript® 2022](https://tc39.es/ecma262/#sec-intro)
