@@ -23,7 +23,7 @@
 | 21.08.07 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/3)    | [😊](https://github.com/live-small/JsDeepDive_Study/issues/2)   |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/4) |   |   | live-small & jessi68  |
 |        |            |   |   |   |   |   |
 
-
+21.08.07| https://github.com/live-small/JsDeepDive_Study/issues/1
 
 *** 
 참고자료 
