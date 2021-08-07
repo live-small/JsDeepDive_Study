@@ -3,9 +3,6 @@
 ### 1. 스터디 목표  
 [모던 자바스크립트 deep dive](https://wikibook.co.kr/mjs/) 책 완독하기  
 
-
-  
-    
     
 ### 2. 스터디 진행방식  
   * 토의 💬
@@ -23,7 +20,7 @@
 ### 3. 출석체크 ✅   
 | 날짜   | live_small | hanna244  |   |   |   | 정리 |
 |--------|------------|---|---|---|---|---|
-| 210807 |  [😊]()    | [😊](https://github.com/live-small/JsDeepDive_Study/issues/2)   |   |   |   |   |
+| 21.08.07 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/3)    | [😊](https://github.com/live-small/JsDeepDive_Study/issues/2)   |   |   |   | live-small & jessi68  |
 |        |            |   |   |   |   |   |
 
 
