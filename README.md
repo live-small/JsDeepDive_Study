@@ -18,10 +18,10 @@
 
 
 ### 3. 출석체크 ✅   
-| 날짜   | live_small | hanna244  | markers  |   |   | 정리 |
+| 날짜   | live_small | hanna244  | markers  |  jessi68 |   | 정리 |
 |--------|------------|---|---|---|---|---|
 | 21.08.07 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/3)    | [😊](https://github.com/live-small/JsDeepDive_Study/issues/2)   |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/4) |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/1)  |   | live-small & jessi68  |
-| 21.08.14 |            |   | [😊](https://github.com/live-small/JsDeepDive_Study/issues/6) |   |   | Markers & hanna224  |
+| 21.08.14 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/7)          |   | [😊](https://github.com/live-small/JsDeepDive_Study/issues/6) |   |   | Markers & hanna224  |
 
 
 
