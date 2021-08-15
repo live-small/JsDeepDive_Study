@@ -17,7 +17,10 @@
 
 
 
-### 3. 출석체크 ✅   
+### 3. 출석체크 ✅ 
+출석: 😊  
+지각: 😅  
+
 | 날짜   | live_small | hanna244  | markers  |  jessi68 |   | 정리 |
 |--------|------------|---|---|---|---|---|
 | 21.08.07 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/3)    | [😊](https://github.com/live-small/JsDeepDive_Study/issues/2)   |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/4) |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/1)  |   | live-small & jessi68  |
