@@ -21,14 +21,17 @@
 출석: 😊  
 지각: 😅  
 
+
+
 | 날짜   | live_small | hanna244  | markers  |  jessi68 |   | 정리 |
 |--------|------------|---|---|---|---|---|
 | 21.08.07 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/3)    | [😊](https://github.com/live-small/JsDeepDive_Study/issues/2)   |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/4) |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/1)  |   | live-small & jessi68  |
 | 21.08.14 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/7)          |   | [😊](https://github.com/live-small/JsDeepDive_Study/issues/6) |                     [😊](https://github.com/live-small/JsDeepDive_Study/issues/5)  |   | Markers & hanna224  |
+| 21.08.21  | [😊](https://github.com/live-small/JsDeepDive_Study/issues/9) |   |   |   |   |   |
 
 
 
-*** 
+# 
 참고자료 
 - [마크다운 이용법](https://www.markdowntutorial.com/kr/)  
 - [모던 자바스크립트 Deep Dive](https://poiemaweb.com/)
