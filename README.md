@@ -23,12 +23,12 @@
 
 
 
-| 날짜   | live_small | hanna244  | markers  |  jessi68 |   | 정리 |
-|--------|------------|---|---|---|---|---|
-| 21.08.07 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/3)    | [😊](https://github.com/live-small/JsDeepDive_Study/issues/2)   |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/4) |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/1)  |   | live-small & jessi68  |
-| 21.08.14 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/7)          |   | [😊](https://github.com/live-small/JsDeepDive_Study/issues/6) |                     [😊](https://github.com/live-small/JsDeepDive_Study/issues/5)  |   | Markers & hanna224  |
-| 21.08.21  | [😊](https://github.com/live-small/JsDeepDive_Study/issues/9) |   |   |  [😅](https://github.com/live-small/JsDeepDive_Study/issues/8) |   | live-small  |
-| 21.08.28  | [😊](https://github.com/live-small/JsDeepDive_Study/issues/12)|   | [😊](https://github.com/live-small/JsDeepDive_Study/issues/11)  |   |   |   |
+| 날짜   | live_small | markers  |  jessi68 | 정리 |
+|--------|------------|---|---|---|
+| 21.08.07 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/3)    |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/4) |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/1)  | live-small & jessi68  |
+| 21.08.14 |  [😊](https://github.com/live-small/JsDeepDive_Study/issues/7)        | [😊](https://github.com/live-small/JsDeepDive_Study/issues/6) |                     [😊](https://github.com/live-small/JsDeepDive_Study/issues/5)  | Markers & hanna224  |
+| 21.08.21  | [😊](https://github.com/live-small/JsDeepDive_Study/issues/9) |   |  [😅](https://github.com/live-small/JsDeepDive_Study/issues/8)  | live-small  |
+| 21.08.28  | [😊](https://github.com/live-small/JsDeepDive_Study/issues/12)|  [😊](https://github.com/live-small/JsDeepDive_Study/issues/11)  |   |    |
 
 
 
