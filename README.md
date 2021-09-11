@@ -30,6 +30,7 @@
 | 21.08.21  | [😊](https://github.com/live-small/JsDeepDive_Study/issues/9) |   |  [😅](https://github.com/live-small/JsDeepDive_Study/issues/8)  | live-small  |
 | 21.08.28  | [😊](https://github.com/live-small/JsDeepDive_Study/issues/12)|  [😊](https://github.com/live-small/JsDeepDive_Study/issues/11)  |   [😊](https://github.com/live-small/JsDeepDive_Study/issues/13) | jessi68   |
 | 21.09.04  |[😊](https://github.com/live-small/JsDeepDive_Study/issues/16) | | | Markers & live-small |
+| 21.09.11 | [😊](https://github.com/live-small/JsDeepDive_Study/issues/18) | | | |
 
 
 # 
